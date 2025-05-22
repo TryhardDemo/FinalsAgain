@@ -12,6 +12,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+// EXAMPLE CHANGE
+
 public class Main {
     public static void main(String[] args) {
         try (Scanner input = new Scanner(System.in)) {
